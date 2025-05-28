@@ -9,6 +9,7 @@ The goal of this project is to **predict taxonomic identity and genetic composit
 - `ABU_ML_homework2024_BCG.ipynb`: Main Jupyter Notebook with the full analysis.
 - `train.csv`: Training dataset (10,422 samples × 67 features).
 - `test.csv`: Test dataset (2,606 samples × 66 features, **missing the AGA codon frequency**).
+- `ml_homework_2024.pdf`: Project instructions and background.
 
 ---
 ## Project Overview
